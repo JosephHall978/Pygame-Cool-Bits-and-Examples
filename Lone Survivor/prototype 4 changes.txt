@@ -1,0 +1,6 @@
+prototype 4 addition notes
+X   lorax themed enemy?
+X   timer for bomb actually ticks down
+X   have the enemy tilt in a direction e.g tilt left when moving left
+X   controller support
+    fix mac problem with buffering between game play and game over (loading files) (need mac so difficult to fix)
